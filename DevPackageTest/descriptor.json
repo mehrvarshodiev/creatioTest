@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "7dfa1241-8a70-cde2-2d6f-29a56583f7d8",
+    "Name": "DevPackageTest",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1702552320000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/DevPackageTest.csproj",
+    "DependsOn": [
+      {
+        "UId": "31fb3696-57b3-48c2-abe8-5a74e3530ca7",
+        "PackageVersion": "7.8.0",
+        "Name": "BankSales_BCJ_Lending_Marketing"
+      }
+    ]
+  }
+}
